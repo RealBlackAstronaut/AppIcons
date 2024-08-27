@@ -1,0 +1,34 @@
+{
+  "name": "Celestial iOS Repo",
+  "identifier": "kh.celestial.celestialsource",
+  "iconURL": "https://media.discordapp.net/attachments/1277817608099332201/1277824741918642267/IMG_2150.png?ex=66ce9287&is=66cd4107&hm=183a1fd8707ec4f2abd0a141faf1fc9b8a2a5d1345aa3a837655f82c0e8185a8&",
+  "apps": [
+    {
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games & Celestial Devs",
+      "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277815911663009884/83710856-94A3-4E83-B15A-17E138DA5813.jpg?ex=66ce8a4e&is=66cd38ce&hm=86bdd99bb85f7299c6bcf5d381f2571305bb03a85b42cb21fac0f02688945881&",
+      "localizedDescription": "It’s Fortnite for iOS. There is no more to say.",
+      "subtitle": "REQUIRED - Paid Developer Certificate",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "v31.00.2",
+          "date": "2024-08-24T18:34:10Z",
+          "size": 242640000,
+          "downloadURL": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.31.00.2+UPD.CaHighFPS+SUBSTRATE.ipa"
+        }
+      ],
+      "size": 12375230,
+      "version": "v1.0",
+      "versionDate": "2024-08-24T18:34:10Z",
+      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0/feather_v1.0.ipa",
+      "appPermissions": {
+
+      }
+    }
+  ],
+  "news": [
+
+  ]
+}
